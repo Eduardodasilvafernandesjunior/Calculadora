@@ -6,7 +6,7 @@
     <body>
         <h1>Calculadora Trabalho</h1>
         <form method="post" action="index.php">
-            <input type="text" step="0.001" name="v1"><br>
+            <input type="text" step="0.001" name="v1">
             <input type="text" step="0.001" name="v2"><br>
             <select name="operacao">
                 <option value='somar'>Somar</option>
