@@ -13,7 +13,7 @@
                 <option value='subtrair'>Subtrair</option>
                 <option value='multiplicar'>Multiplicar</option>
                 <option value='dividir'>Dividir</option>
-            </select><br>
+            </select>
             <input type="submit" value="Calcular">
         </form>
         <?php
